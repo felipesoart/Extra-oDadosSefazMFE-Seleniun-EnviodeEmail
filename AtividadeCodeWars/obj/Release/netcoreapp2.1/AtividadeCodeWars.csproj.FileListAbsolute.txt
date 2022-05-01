@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\bin\Release\netcoreapp2.1\AtividadeCodeWars.deps.json
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\bin\Release\netcoreapp2.1\AtividadeCodeWars.runtimeconfig.json
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\bin\Release\netcoreapp2.1\AtividadeCodeWars.runtimeconfig.dev.json
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\bin\Release\netcoreapp2.1\AtividadeCodeWars.dll
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\bin\Release\netcoreapp2.1\AtividadeCodeWars.pdb
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\obj\Release\netcoreapp2.1\AtividadeCodeWars.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\obj\Release\netcoreapp2.1\AtividadeCodeWars.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\obj\Release\netcoreapp2.1\AtividadeCodeWars.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\obj\Release\netcoreapp2.1\AtividadeCodeWars.AssemblyInfo.cs
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\obj\Release\netcoreapp2.1\AtividadeCodeWars.dll
+C:\Users\admin\source\repos\AtividadeCodeWars\AtividadeCodeWars\obj\Release\netcoreapp2.1\AtividadeCodeWars.pdb
